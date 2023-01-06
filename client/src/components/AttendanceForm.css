@@ -1,0 +1,17 @@
+.section__attendance-form {
+  background-color: #f7f7f7;
+  height: 83vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.heading__section-attendance {
+  padding: 30px;
+  text-align: center !important;
+}
+
+.input__number::-webkit-inner-spin-button,
+.input__number::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
